@@ -1,2 +1,1 @@
 39
-New version available! Run 'Installer.bat' from Shared Folder. Close Excel first!
